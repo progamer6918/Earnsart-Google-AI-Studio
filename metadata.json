@@ -1,0 +1,6 @@
+{
+  "name": "Fiinastore — Pusat Loyang & Cetakan Kue Aluminium",
+  "description": "Toko online resmi Fiinastore: koleksi loyang kue aluminium berkualitas (Love, Bulat, Segi, Bronis, Rigi, Pai, dan Grosir Kodi) dengan panggung 3D interaktif dan simulasi checkout langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
